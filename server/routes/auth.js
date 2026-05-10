@@ -14,7 +14,7 @@ router.get(
 router.get(
   "/google/callback",
   passport.authenticate("google", {
-    failureRedirect: CLIENT_URL,
+    failureRedirect: `${CLIENT_URL}/?blocked=1`,
   }),
   (_req, res) => {
     res.redirect(`${CLIENT_URL}/categories`);
@@ -39,7 +39,8 @@ router.get("/logout", (req, res, next) => {
 
 router.get("/me", (req, res) => {
   if (req.isAuthenticated && req.isAuthenticated()) {
-    return res.json({ user: req.user });
+    const { _id, displayName, email, photo, isAdmin, isBlocked, createdAt } = req.user;
+    return res.json({ user: { _id, displayName, email, photo, isAdmin, isBlocked, createdAt } });
   }
   return res.status(401).json({ message: "Unauthorized" });
 });

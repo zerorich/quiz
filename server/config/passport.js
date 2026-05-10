@@ -22,6 +22,10 @@ passport.use(
           });
         }
 
+        if (user.isBlocked) {
+          return done(null, false, { message: "Account is blocked." });
+        }
+
         return done(null, user);
       } catch (error) {
         return done(error, null);

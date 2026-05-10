@@ -8,6 +8,7 @@ const passport = require("passport");
 
 const authRoutes = require("./routes/auth");
 const quizRoutes = require("./routes/quiz");
+const adminRoutes = require("./routes/admin");
 require("./config/passport");
 
 const app = express();
@@ -44,6 +45,7 @@ app.get("/health", (_req, res) => {
 
 app.use("/auth", authRoutes);
 app.use("/api", quizRoutes);
+app.use("/admin", adminRoutes);
 
 async function startServer() {
   try {

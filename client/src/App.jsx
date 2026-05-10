@@ -1,9 +1,11 @@
 import { Navigate, Route, Routes } from 'react-router-dom'
 import ProtectedRoute from './components/ProtectedRoute.jsx'
+import AdminRoute from './components/AdminRoute.jsx'
 import CategoriesPage from './pages/CategoriesPage.jsx'
 import LandingPage from './pages/LandingPage.jsx'
 import QuizPage from './pages/QuizPage.jsx'
 import ResultDetailPage from './pages/ResultDetailPage.jsx'
+import AdminPage from './pages/AdminPage.jsx'
 
 function App() {
   return (
@@ -31,6 +33,14 @@ function App() {
           <ProtectedRoute>
             <ResultDetailPage />
           </ProtectedRoute>
+        }
+      />
+      <Route
+        path="/admin"
+        element={
+          <AdminRoute>
+            <AdminPage />
+          </AdminRoute>
         }
       />
       <Route path="*" element={<Navigate to="/" replace />} />

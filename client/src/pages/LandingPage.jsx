@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useNavigate, useSearchParams } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 
 function LandingPage() {
   const navigate = useNavigate()
+  const [searchParams] = useSearchParams()
   const { user, refreshUser } = useAuth()
   const [checkingAuth, setCheckingAuth] = useState(true)
+  const isBlocked = searchParams.get('blocked') === '1'
 
   useEffect(() => {
     let mounted = true
@@ -57,11 +59,27 @@ function LandingPage() {
           color: 'var(--text-muted)',
           fontSize: '1rem',
           lineHeight: 1.7,
-          margin: '0 0 48px',
+          margin: '0 0 32px',
         }}>
           Google orqali kiring va har bir toifa bo'yicha testlarni ishlab,
           natijalaringizni saqlab boring.
         </p>
+
+        {/* Blocked warning */}
+        {isBlocked && (
+          <div className="fade-up fade-up-d1" style={{
+            marginBottom: 24,
+            padding: '12px 16px',
+            borderRadius: 10,
+            background: 'rgba(248,113,113,0.08)',
+            border: '1px solid rgba(248,113,113,0.25)',
+            color: 'var(--error)',
+            fontSize: '0.9rem',
+            lineHeight: 1.5,
+          }}>
+            ⚠️ Your account has been blocked. Please contact the administrator.
+          </div>
+        )}
 
         <div className="fade-up fade-up-d2">
           <button
