@@ -85,7 +85,7 @@ function LandingPage() {
           <button
             type="button"
             disabled={checkingAuth}
-            onClick={() => { window.location.href = 'http://localhost:5000/auth/google' }}
+            onClick={() => { window.location.href = 'https://quiz-production-19b3.up.railway.app/auth/google' }}
             className="btn-primary"
             style={{ width: '100%', justifyContent: 'center', fontSize: '1rem', padding: '15px 28px' }}
           >
