@@ -10,7 +10,7 @@ function ProtectedRoute({ children }) {
     let active = true
     async function verifySession() {
       try {
-        const response = await fetch('http://localhost:5000/auth/me', { credentials: 'include' })
+        const response = await fetch('https://quiz-production-19b3.up.railway.app/auth/me', { credentials: 'include' })
         if (!active) return
         if (!response.ok) { setUser(null); setLoading(false); return }
         const data = await response.json()
