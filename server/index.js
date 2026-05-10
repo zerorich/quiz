@@ -13,6 +13,9 @@ require("./config/passport");
 const app = express();
 const PORT = process.env.PORT || 5000;
 const CLIENT_URL = process.env.CLIENT_URL || "http://localhost:5173";
+const isProd = process.env.NODE_ENV === "production";
+
+if (isProd) app.set("trust proxy", 1);
 
 app.use(
   cors({
@@ -33,8 +36,8 @@ app.use(
     }),
     cookie: {
       maxAge: 7 * 24 * 60 * 60 * 1000,
-      sameSite: "none",
-      secure: true,
+      sameSite: isProd ? "none" : "lax",
+      secure: isProd,
     },
   }),
 );
