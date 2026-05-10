@@ -82,7 +82,7 @@ function CategoriesPage() {
             </span>
             <button
               className="btn-danger"
-              onClick={() => { window.location.href = 'http://localhost:5000/auth/logout' }}
+              onClick={() => { window.location.href = 'https://quiz-production-19b3.up.railway.app/auth/logout' }}
             >
               Chiqish
             </button>
