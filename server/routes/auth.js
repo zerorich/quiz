@@ -16,8 +16,20 @@ router.get(
   passport.authenticate("google", {
     failureRedirect: `${CLIENT_URL}/?blocked=1`,
   }),
-  (_req, res) => {
-    res.redirect(`${CLIENT_URL}/categories`);
+  (req, res) => {
+    // Ensure session is saved before redirecting so the cookie is set in the response
+    // (important when redirecting across domains / behind proxies)
+    if (req.session) {
+      req.session.save((err) => {
+        if (err) {
+          console.error('Failed to save session after OAuth callback:', err);
+          return res.redirect(`${CLIENT_URL}/?error=session_save`);
+        }
+        return res.redirect(`${CLIENT_URL}/categories`);
+      });
+    } else {
+      return res.redirect(`${CLIENT_URL}/categories`);
+    }
   },
 );
 
@@ -31,7 +43,12 @@ router.get("/logout", (req, res, next) => {
       if (sessionError) {
         return next(sessionError);
       }
-      res.clearCookie("connect.sid");
+      // Clear cookie with same options as used for setting it so browsers remove it correctly
+      res.clearCookie("connect.sid", {
+        path: '/',
+        sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax',
+        secure: process.env.NODE_ENV === 'production',
+      });
       return res.redirect(CLIENT_URL);
     });
   });
