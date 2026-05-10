@@ -3,9 +3,8 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const session = require("express-session");
-const MongoStore = require("connect-mongo")(session);
+const MongoStore = require("connect-mongo");
 const passport = require("passport");
-
 const authRoutes = require("./routes/auth");
 const quizRoutes = require("./routes/quiz");
 const adminRoutes = require("./routes/admin");
@@ -21,17 +20,21 @@ app.use(
     credentials: true,
   }),
 );
+
 app.use(express.json());
+
 app.use(
   session({
     secret: process.env.SESSION_SECRET || "change_this_secret",
     resave: false,
     saveUninitialized: false,
-    store: new MongoStore({
-      mongooseConnection: mongoose.connection,
+    store: MongoStore.create({
+      mongoUrl: process.env.MONGODB_URI || "mongodb://localhost:27017/quizapp",
     }),
     cookie: {
       maxAge: 7 * 24 * 60 * 60 * 1000,
+      sameSite: "none",
+      secure: true,
     },
   }),
 );
