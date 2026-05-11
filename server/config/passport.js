@@ -1,34 +1,34 @@
 const passport = require("passport");
-const GoogleStrategy = require("passport-google-oauth20").Strategy;
+const LocalStrategy = require("passport-local").Strategy;
 const User = require("../models/User");
 
 passport.use(
-  new GoogleStrategy(
+  new LocalStrategy(
     {
-      clientID: process.env.GOOGLE_CLIENT_ID,
-      clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-      callbackURL: process.env.CALLBACK_URL || 'http://localhost:5000/auth/google/callback',
+      usernameField: "username",
+      passwordField: "password",
     },
-    async (_accessToken, _refreshToken, profile, done) => {
+    async (username, password, done) => {
       try {
-        let user = await User.findOne({ googleId: profile.id });
+        const user = await User.findOne({ username });
 
         if (!user) {
-          user = await User.create({
-            googleId: profile.id,
-            displayName: profile.displayName,
-            email: profile.emails?.[0]?.value || "",
-            photo: profile.photos?.[0]?.value || "",
-          });
+          return done(null, false, { message: "Invalid username or password" });
+        }
+
+        const isPasswordValid = await user.comparePassword(password);
+
+        if (!isPasswordValid) {
+          return done(null, false, { message: "Invalid username or password" });
         }
 
         if (user.isBlocked) {
-          return done(null, false, { message: "Account is blocked." });
+          return done(null, false, { message: "Account is blocked" });
         }
 
         return done(null, user);
       } catch (error) {
-        return done(error, null);
+        return done(error);
       }
     },
   ),
