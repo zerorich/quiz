@@ -34,7 +34,7 @@ async function seed() {
     );
     console.log("Готово.");
   } else {
-    // Хешируем пароль вручную — обходим сломанный pre('save') хук
+    // Хешируем пароль вручную (как при регистрации через pre('save'))
     const salt = await bcrypt.genSalt(10);
     const hashedPassword = await bcrypt.hash(ADMIN.password, salt);
 
@@ -51,16 +51,6 @@ async function seed() {
     console.log(`Админ создан:`);
     console.log(`  username : ${ADMIN.username}`);
     console.log(`  password : ${ADMIN.password}`);
-  }
-
-  await mongoose.disconnect();
-  console.log("Отключено. Seed завершён.");
-}
-
-seed().catch((err) => {
-  console.error("Ошибка:", err);
-  process.exit(1);
-});
   }
 
   await mongoose.disconnect();

@@ -3,6 +3,16 @@ import { useNavigate, useParams } from 'react-router-dom'
 import questionsData from '../data/questions.json'
 import api from '../lib/api'
 
+/** Fisher–Yates: новый массив, случайный порядок */
+function shuffle(array) {
+  const a = array.slice()
+  for (let i = a.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
 function QuizPage() {
   const { category } = useParams()
   const navigate = useNavigate()
@@ -11,7 +21,15 @@ function QuizPage() {
   const [submitting, setSubmitting] = useState(false)
   const [error, setError] = useState('')
 
-  const questions = useMemo(() => questionsData[category] || [], [category])
+  const questions = useMemo(() => {
+    const raw = questionsData[category] || []
+    if (!raw.length) return []
+    const order = shuffle(raw)
+    return order.map((q) => ({
+      ...q,
+      displayOptions: shuffle(q.options || []),
+    }))
+  }, [category])
 
   if (!questions.length) {
     return (
@@ -129,7 +147,7 @@ function QuizPage() {
           </h2>
 
           <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-            {question.options.map((option, idx) => {
+            {(question.displayOptions || question.options).map((option, idx) => {
               const isSelected = selectedOptionId === option.id
               const isLocked = selectedOptionId !== undefined
               const letters = ['A', 'B', 'C', 'D', 'E']

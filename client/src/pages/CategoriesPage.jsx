@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import api from '../lib/api'
+import api, { API_BASE_URL } from '../lib/api'
 import { useAuth } from '../context/AuthContext'
 
 const CATEGORY_META = [
@@ -82,7 +82,7 @@ function CategoriesPage() {
             </span>
             <button
               className="btn-danger"
-              onClick={() => { window.location.href = 'https://quiz-production-19b3.up.railway.app/auth/logout' }}
+              onClick={() => { window.location.href = `${API_BASE_URL}/auth/logout` }}
             >
               Chiqish
             </button>

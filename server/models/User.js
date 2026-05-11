@@ -6,22 +6,17 @@ const userSchema = new mongoose.Schema({
   password: { type: String, required: true },
   displayName: { type: String, default: "" },
   email: { type: String, default: "" },
+  googleId: { type: String, sparse: true, unique: true },
   isAdmin: { type: Boolean, default: false },
   isBlocked: { type: Boolean, default: false },
   createdAt: { type: Date, default: Date.now },
 });
 
-// Hash password before saving
-userSchema.pre("save", async function (next) {
-  if (!this.isModified("password")) return next();
-
-  try {
-    const salt = await bcrypt.genSalt(10);
-    this.password = await bcrypt.hash(this.password, salt);
-    next();
-  } catch (error) {
-    next(error);
-  }
+// Hash password before saving (Mongoose 9: async hooks must not use next())
+userSchema.pre("save", async function () {
+  if (!this.isModified("password")) return;
+  const salt = await bcrypt.genSalt(10);
+  this.password = await bcrypt.hash(this.password, salt);
 });
 
 // Method to compare passwords

@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Navigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
+import api from '../lib/api'
 
 function AdminRoute({ children }) {
   const { user, setUser } = useAuth()
@@ -10,11 +11,9 @@ function AdminRoute({ children }) {
     let active = true
     async function verifySession() {
       try {
-        const response = await fetch('https://quiz-production-19b3.up.railway.app/auth/me', { credentials: 'include' })
+        const response = await api.get('/auth/me')
         if (!active) return
-        if (!response.ok) { setUser(null); setLoading(false); return }
-        const data = await response.json()
-        setUser(data.user || null)
+        setUser(response.data.user || null)
         setLoading(false)
       } catch {
         if (active) { setUser(null); setLoading(false) }

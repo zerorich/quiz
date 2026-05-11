@@ -8,6 +8,7 @@ const passport = require("passport");
 const authRoutes = require("./routes/auth");
 const quizRoutes = require("./routes/quiz");
 const adminRoutes = require("./routes/admin");
+const User = require("./models/User");
 require("./config/passport");
 
 const app = express();
@@ -58,6 +59,17 @@ async function startServer() {
     await mongoose.connect(
       process.env.MONGODB_URI || "mongodb://localhost:27017/quizapp",
     );
+    // Старый non-sparse unique на googleId не давал создавать больше одного локального юзера (null).
+    try {
+      await User.collection.dropIndex("googleId_1");
+    } catch (e) {
+      if (e.code !== 27 && e.codeName !== "IndexNotFound") {
+        console.warn("users index googleId_1:", e.message);
+      }
+    }
+    await User.collection.updateMany({ googleId: null }, { $unset: { googleId: "" } });
+    await User.syncIndexes().catch((e) => console.warn("User.syncIndexes:", e.message));
+
     app.listen(PORT, () => {
       console.log(`Server running on port ${PORT}`);
     });
