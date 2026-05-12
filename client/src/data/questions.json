@@ -7413,6 +7413,2034 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": 51,
+      "quiz": "Agressiyani aniqlashning empirik mexanizmi nimani o‘z ichiga oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tasodifiy qarorlar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Test va kuzatuv natijalarini yig‘ish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "quiz": "Agressiya darajasi qaysi ko‘rsatkichlar bilan baholanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xatti-harakat va psixologik holat",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat matnlar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "quiz": "Agressiyani baholashda intervyu qachon ishlatiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Shaxsning xatti-harakatini tushunish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat statistik ma’lumotlar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy kuzatuv",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "quiz": "Agressiyani aniqlashning statistik tahlili nimaga yordam beradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Shaxslar o‘rtasidagi farqlarni aniqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "quiz": "Agressiya darajasi baholash natijasida nima aniqlanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Shaxsning tajovuzkor xatti-harakti va ehtimoliy xavf",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "quiz": "Agressiyani baholashning subyektiv mexanizmi nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Respondentning o‘z his-tuyg‘ularini ifodalashiga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat kuzatuv",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "quiz": "Agressiya darajasini o‘lchashda test natijalarini qanday tahlil qilinadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat matn tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Statistika va empirik tahlil orqali",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "quiz": "Agressiya darajasi qaysi yosh guruhlarida baholanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat kattalar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat bolalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Har qanday yoshda",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "quiz": "Agressiyani baholashning psixometrik vositalari nimani beradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Shaxsning xatti-harakti va ehtimoliy xavfini aniqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy javoblar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "quiz": "Ijtimoiy stressni baholash qanday amalga oshiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Empirik testlar va intervyu orqali",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat nazariy fikrlar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy kuzatuv",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "quiz": "Ijtimoiy stressni kimlar baholaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Psixologlar va tadqiqotchilar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat talabalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "quiz": "Stressni baholashning subyektiv mexanizmi nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Respondentning o‘z his-tuyg‘ularini ifodalashiga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat matn tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "quiz": "Ijtimoiy stressni kamaytirishning empirik yo‘li nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tadqiqot natijalarini tahlil qilish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy kuzatuv",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "quiz": "Ijtimoiy stress qaysi yosh guruhda aniqlanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Har qanday yoshda",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat kattalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat bolalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "quiz": "Stressni baholashning foydasi nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Shaxsni ijtimoiy muhitga moslashtirish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "quiz": "Ijtimoiy stressni baholashda asosiy vosita nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Psixometrik test va intervyu",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy kuzatuv",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "quiz": "Stressni kamaytirishning milliy yo‘llari nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Jamiyatning madaniy va ijtimoiy qo‘llab-quvvatlashi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "quiz": "Munchausen sindromi kimlar orasida uchraydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Har qanday yosh va jinsdagi shaxslar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat kattalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat bolalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "quiz": "Statistik tahlil nima uchun ishlatiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Munchausen sindromining ijtimoiy ta’sirini aniqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "quiz": "Tahlil qilishda qaysi metod ishlatiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Statistik va empirik metodlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy kuzatuv",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "quiz": "Statistik tahlil kimlar tomonidan amalga oshiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tadqiqotchilar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat talabalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "quiz": "Sindrom ta’siri qanday ko‘rinadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy muhitga salbiy ta’sir",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "quiz": "Munchausen sindromini baholash uchun qaysi vosita ishlatiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "So‘rov va kuzatuv",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy test",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "quiz": "Statistik tahlil natijasi nima beradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Sindromning tarqalishi va ijtimoiy ta’siri",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "quiz": "Sindrom bilan ishlashda asosiy maqsad nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy muhitni va shaxsni tushunish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "quiz": "Statistik tahlil natijalari qaysi sohalarda ishlatiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Psixologiya va sotsiologiya",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat iqtisodiyot",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy sohalarda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "quiz": "Statistik tahlil orqali nima aniqlanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Sindromning tarqalishi va ijtimoiy xavfi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "quiz": "Xorijiy tajribada maishiy zo‘ravonlikni kamaytirish usuli nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy chora va ijtimoiy qo‘llab-quvvatlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy qaror",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat empirik tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "quiz": "Ayollarni himoya qilishning empirik yo‘li nimani o‘z ichiga oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "So‘rov va kuzatuv",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy qaror",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "quiz": "Xorijiy tajribada zo‘ravonlikni kamaytirish qanday amalga oshiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy himoya va psixologik yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "quiz": "Maishiy zo‘ravonlikni baholash natijasi nima beradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Himoya choralari samaradorligini aniqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "quiz": "Milliy mexanizmlar nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat va ijtimoiy tizimlar orqali himoya",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat oilaviy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "quiz": "Zo‘ravonlikni kamaytirishning asosiy elementlari nimadan iborat?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qonuniy himoya va ijtimoiy qo‘llab-quvvatlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat empirik tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "quiz": "Milliy mexanizmlar kimlar tomonidan amalga oshiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hukumat va ijtimoiy xizmatlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat talabalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "quiz": "Zo‘ravonlikni baholashning empirik yo‘li nimani o‘z ichiga oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "So‘rov, intervyu va kuzatuv",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy qaror",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "quiz": "Milliy mexanizmlarning samaradorligi nimaga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy va ijtimoiy qo‘llab-quvvatlashga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "quiz": "Ayollarni himoya qilishning asosiy natijasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlikning kamayishi va ijtimoiy xavfsizlik",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "quiz": "Milliy mexanizmlarda asosiy yo‘nalish nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy, ijtimoiy va psixologik yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat oilaviy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "quiz": "Zo‘ravonlikni aniqlash natijasi nima beradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Himoya choralari samaradorligini ko‘rsatadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "quiz": "Milliy mexanizmlarda statistik tahlil nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlik hodisalarining tarqalishini ko‘rsatadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat matn tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "quiz": "Ayollarga ko‘rsatiladigan yordam qaysi sohalarni qamrab oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy, psixologik va ijtimoiy xizmatlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat oilaviy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "quiz": "Milliy mexanizmlarning asosiy foydasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlikning kamayishi va ayollar xavfsizligi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "quiz": "Milliy tajribada zo‘ravonlikning oldini olishda qaysi vosita ishlatiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qonuniy tartib va psixologik yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy qaror",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "quiz": "Zo‘ravonlikni oldini olish natijasi nimani ko‘rsatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hodisaning kamayishi va xavfsizlikni oshirish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "quiz": "Milliy tajriba qaysi sohalarga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquq, psixologiya va ijtimoiy ish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat iqtisodiyot",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy sohalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "quiz": "Milliy tajribada asosiy maqsad nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Jamiyat va shaxs xavfsizligini ta’minlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "quiz": "Zo‘ravonlikni oldini olish natijasi kimlarga foydali?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Shaxslar va jamiyat",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat matn tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "quiz": "Milliy tajribada asosiy chora nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qonuniy tartib va ijtimoiy dasturlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy qaror",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "quiz": "Zo‘ravonlikni oldini olishning subyektiv mexanizmi nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Respondentning his-tuyg‘ularini tushunish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat matn tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "quiz": "Milliy tajribada statistik tahlil nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlik hodisalarining tarqalishini ko‘rsatadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "quiz": "Zo‘ravonlikni oldini olishning asosiy foydasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xavfsizlikni oshirish va ijtimoiy muhitni himoya qilish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "quiz": "Milliy tajribada qo‘llanadigan asosiy yo‘nalish nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy, psixologik va ijtimoiy yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "quiz": "Xorijiy tajribada zo‘ravonlikni oldini olishning asosiy yo‘li nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy himoya va ijtimoiy dasturlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat oilaviy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "quiz": "Xorijiy tajribada asosiy himoya vositasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Himoya orderlari va ijtimoiy dasturlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy qaror",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "quiz": "Zo‘ravonlikni oldini olish kimlar tomonidan amalga oshiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hukumat organlari va ijtimoiy xizmatlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat talabalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "quiz": "Xorijiy tajribada asosiy maqsad nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlikning kamayishi va xavfsizlikni oshirish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "quiz": "Xorijiy tajribada asosiy chora nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qonuniy tartib va ijtimoiy dasturlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy qaror",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "quiz": "Xorijiy tajribada asosiy yo‘nalish nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy, psixologik va ijtimoiy yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "quiz": "Xorijiy tajribada asosiy himoya vositasi qaysi sohalarga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquq, psixologiya va ijtimoiy ish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat iqtisodiyot",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy sohalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "quiz": "Xorijiy tajribada asosiy foyda nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlikning kamayishi va xavfsizlikni oshirish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "quiz": "Xorijiy tajribada statistik tahlil nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlik hodisalarining tarqalishini ko‘rsatadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "quiz": "Zo‘ravonlikni oldini olishning asosiy elementlari nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qonuniy himoya va psixologik yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "quiz": "Zo‘ravonlikning oldini olishning asosiy maqsadi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xavfsizlikni oshirish va huquqni himoya qilish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "quiz": "Ayollar huquqlarini himoya qilishning asosiy yo‘li nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy va ijtimoiy yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "quiz": "Ayollarni himoya qilishning asosiy foydasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlikning kamayishi va xavfsizlik",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "quiz": "Zo‘ravonlikni aniqlashning subyektiv mexanizmi nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Respondentning his-tuyg‘ularini tushunish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat matn tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "quiz": "Ayollarni himoya qilish natijalari kimlarga foydali?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Shaxslar va jamiyat",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "quiz": "Zo‘ravonlikni baholashning asosiy maqsadi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xavfsizlik va huquqni ta’minlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "quiz": "Ayollar huquqlarini himoya qilish asosiy choralari nimadan iborat?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy himoya va ijtimoiy dasturlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "quiz": "Zo‘ravonlikni oldini olish natijasi nima beradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Jamiyat va shaxs xavfsizligini oshirish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "quiz": "Zo‘ravonlikni aniqlashning empirik yo‘li nimani o‘z ichiga oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "So‘rov, intervyu va kuzatuv",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tasodifiy qaror",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "quiz": "Zo‘ravonlikni baholash natijasi nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Himoya choralari samaradorligini aniqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natija",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy xulosa",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "quiz": "Bolalar va katta yoshlarning huquqlari kimlar tomonidan himoya qilinadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hukumat va ijtimoiy xizmatlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat talabalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "quiz": "Bolalar huquqlarini himoya qilish natijalari nimani ko‘rsatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Zo‘ravonlikning kamayishi va xavfsizlik",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy fikr",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "quiz": "Katta yoshlilar huquqlarini himoya qilishning empirik yo‘li nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "So‘rov va kuzatuv",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "quiz": "Zo‘ravonlik hodisasini aniqlashning subyektiv mexanizmi nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Respondentning his-tuyg‘ularini tushunish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy baholar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat matn tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "quiz": "Bolalar va katta yoshlarga ko‘rsatiladigan yordam qaysi sohalarni qamrab oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Huquqiy, psixologik va ijtimoiy xizmatlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy chora",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat oilaviy maslahat",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "quiz": "Bolalar va katta yoshlarning huquqlari himoyasi kimlar uchun foydali?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Shaxslar va jamiyat",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat matn tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
