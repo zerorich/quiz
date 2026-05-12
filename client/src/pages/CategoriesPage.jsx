@@ -22,6 +22,12 @@ const CATEGORY_META = [
     desc: "Jabr ko'rganlar bilan ijtimoiy ish asoslari",
     icon: '⚖️',
   },
+  {
+    key: 'Gumanitar_krizislar',
+    title: 'Gumanitar inqirozlar',
+    desc: 'Krizis menejmenti, ijtimoiy ish va gumanitar yordam asoslari',
+    icon: '🌍',
+  },
 ]
 
 function CategoriesPage() {

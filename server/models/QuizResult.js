@@ -4,6 +4,7 @@ const allowedCategories = [
   "Ijtimoiy_siyosat",
   "Mahalla_va_oila",
   "Tazyiq_va_zoravonlik",
+  "Gumanitar_krizislar",
 ];
 
 const answerSchema = new mongoose.Schema(

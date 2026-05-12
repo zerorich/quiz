@@ -4798,7 +4798,7 @@
         {
           "id": 2,
           "option": "Bevosita muloqot asosida o‘tkazilishi",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": 3,
@@ -4808,7 +4808,7 @@
         {
           "id": 4,
           "option": "Masofaviy bo‘lishi",
-          "isCorrect": true
+          "isCorrect": false
         }
       ]
     },
@@ -4824,7 +4824,7 @@
         {
           "id": 2,
           "option": "Oila va oilaviy munosabatlarni",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": 3,
@@ -4834,7 +4834,7 @@
         {
           "id": 4,
           "option": "Bozor munosabatlarini",
-          "isCorrect": true
+          "isCorrect": false
         }
       ]
     },
@@ -4850,7 +4850,7 @@
         {
           "id": 2,
           "option": "Ilmiy taxmin",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": 3,
@@ -4860,7 +4860,7 @@
         {
           "id": 4,
           "option": "Kuzatuv xulosasi",
-          "isCorrect": true
+          "isCorrect": false
         }
       ]
     },
@@ -4876,12 +4876,12 @@
         {
           "id": 2,
           "option": "So‘rovda ishtirok etuvchi shaxs",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": 3,
           "option": "Tadqiqot buyurtmachisi",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "id": 4,
@@ -4902,7 +4902,7 @@
         {
           "id": 2,
           "option": "So‘rov va intervyu",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": 3,
@@ -4912,7 +4912,7 @@
         {
           "id": 4,
           "option": "Matematik tahlil",
-          "isCorrect": true
+          "isCorrect": false
         }
       ]
     },
@@ -9438,6 +9438,3102 @@
         {
           "id": 4,
           "option": "Javob variantlarida keltirilmagan",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "Gumanitar_krizislar": [
+    {
+      "id": 1,
+      "quiz": "Daniya farovonlik modelining \"universal\" xarakteri qaysi jihati bilan boshqa modellardan farq qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat mehnat bozoriga bog‘langan shaxslarga yordam berishi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Davlatning barcha fuqarolar uchun asosiy farovonlik mas’uliyatini o‘z zimmasiga olishi bilan",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat eng kambag‘allar uchun minimal yordam ko‘rsatishi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Xizmatlarni faqat ish beruvchi va xodimning sug‘urta badallari hisobidan moliyalashtirishi bilan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "quiz": "Gumanitar inqirozning \"Psixologik o‘lchovi\" aniq qaysi xatarni o‘rganadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Infratuzilmaning buzilishi va resurslar yetishmovchiligi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Insonlarning ruhiy sog‘lig‘i va ijtimoiy moslashuviga bo‘lgan xavfni",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Etnik ziddiyatlar natijasida ijtimoiy tizimlarning zaiflashishini",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Aholining hududiy taqsimoti va qamrovini",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "quiz": "Ijtimoiy ish nazariyasida \"Kuchga asoslangan yondashuv\" (strength-based approach) qanday qo‘llaniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat mijozning moddiy ehtiyojlarini qondirishga e'tibor qaratiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Zaif guruhlarning mavjud resurslari va imkoniyatlariga urg'u beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Mijozni butunlay davlat qaramog'iga olish strategiyasi ishlab chiqiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat professional ijtimoiy ishchining tajribasiga tayaniladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "quiz": "Inqirozning (crisis) favqulodda vaziyatdan (emergency) farqlanuvchi vaqt chegarasi darslikda qanday ko‘rsatilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "12 soatdan 24 soatgacha bo‘lgan vaqt",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "24 soatdan 72 soatgacha bo‘lgan vaqt oralig‘ida yechim topilmasligi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Bir haftadan bir oygacha davom etadigan jarayon",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Dastlabki 6 soat ichidagi tezkor harakatlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "quiz": "PTSB (Post-travmatik stress buzilishi) ning \"inkor\" bosqichida mijozning ruhiy holati qanday bo‘ladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Voqeani tan olmaslik va \"bu men bilan yuz bermadi\" deb o‘ylash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Nima uchun aynan men degan savol bilan g‘azablanish",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Chuqur yolg‘izlik va umidsizlik hissi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Yangi holatga moslashish va hayotni davom ettirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "quiz": "Ijtimoiy ishning global ta’rifida (2014) \"mahalliy bilimlar\"ga (indigenous knowledge) tayanish nima uchun muhim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat milliy qonunchilikni ustuvor deb bilish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Odamlar va ijtimoiy tuzilmalar bilan farovonlikni oshirishda hamkorlik qilish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xalqaro standartlarni chetga surish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat diniy tashkilotlar yordamidan foydalanish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "quiz": "Gumanitar krizislar sharoitida ijtimoiy ishning \"Oldindan ogohlantirish va profilaktika\" bosqichi vazifasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Krizis boshlanganda resurslarni taqsimlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xavflarni aniqlash va zaif guruhlar haqida ma’lumot to‘plash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Amalga oshirilgan yordamning samaradorligini baholash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jabrlanganlarni jamiyatga qayta integratsiya qilish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "quiz": "Gumanitar muhitda \"Keys-menejment\" (case management) yondashuvining o‘ziga xosligi nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat guruhlar bilan umumiy ishlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Zaif toifadagi shaxslar bilan tizimli va individual ish olib borish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat moddiy resurslarni taqsimlashni nazorat qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Davlat organlari uchun hisobot tayyorlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "quiz": "Ijtimoiy ishda \"ABC modeli\"dagi \"B\" (Beliefs) elementi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Shaxsda his-tuyg‘ularni yuzaga keltirgan voqea",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Voqea yuzaga kelganda shaxsning unga nisbatan fikr va e’tiqodlari",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "E’tiqodlar natijasida yuzaga keladigan xatti-harakatlar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Muammoni hal qilish uchun ishlab chiqilgan reja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "quiz": "Ijtimoiy almashinuv nazariyasiga ko‘ra, munosabatlarning davomiyligi nimaga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat bir tomonning kuchli bo‘lishiga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "O‘zaro manfaatlar muvozanatining mavjudligiga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat moddiy resurslarning ko‘pligiga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Davlatning qat'iy nazoratiga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "quiz": "Gumanitar krizislarda \"Xatarni baholash\" (Risk assessment) jarayonining uchinchi bosqichi qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xatarlarni aniqlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xatar ehtimolini (tez-tezligi va kuchini) aniqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Strategiya ishlab chiqish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Monitoring va nazorat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "quiz": "Inqirozning uchta asosiy elementi darslikda qanday sanab o'tilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Stress, vaqtni belgilashda qiyinchilik va intervensiya",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Urush, ochlik va migratsiya",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Pul, oziq-ovqat va boshpana",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Davlat, NNT va xalqaro tashkilotlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "quiz": "\"Edvokasy\" (Advocacy) yo‘nalishidagi ijtimoiy ishning asosiy maqsadi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mijozlarga bevosita psixologik yordam berish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Jabrlangan jamoalar ovozini gumanitar rejalashtirishda eshittirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat hujjatsiz shaxslarni ro‘yxatga olish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Resurslarni jismoniy taqsimlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "quiz": "Gumanitar inqirozda \"Geografik o‘lchov\" nimani o‘rganadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Insonlarning ruhiy sog'lig'ini",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Krizis qaysi hududlarni qamrab olgani va aholi taqsimotini",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Inflyatsiya va ishsizlik darajasini",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Etnik ziddiyatlar tarixini",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "quiz": "Ijtimoiy ishda \"Hamrohlik travmasi\" (Vicarious trauma) kimda kuzatiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat tabiiy ofatdan jabrlangan mijozda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijozning travmalarini o‘ziga qabul qilgan ijtimoiy ishchida",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat urush qatnashchilarida",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ijtimoiy yordamdan mahrum bo‘lgan qariyalarda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "quiz": "6 bosqichli krizisga intervensiya modelining \"Muammoni tahlil qilish\" bosqichida nima qilinadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mijozga empatiya ko'rsatiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Krizis sabablarini tushunish va muammoni qayta ko‘rib chiqishga yordam berish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Yangi strategiyalarni amaliyotga joriy qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jismoniy xavfsizlikni baholash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "quiz": "Darslikda \"Mehr operatsiyalari\"ning ijtimoiy ish uchun ahamiyati qanday baholangan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat harbiy harakatlar majmuasi sifatida",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Insonparvarlik va yordam berishga yo‘naltirilgan kompleks choralar sifatida",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat iqtisodiy islohotlar qismi sifatida",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Saylovoldi kampaniyasi sifatida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "quiz": "\"Taqlid qiluvchi xarakter\"ga ega shaxslarning salbiy xususiyati darslikda qanday keltirilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yangi bilimlarni tez o‘zlashtirishi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mustaqil fikrlash qobiliyatining zaiflashishi va qarorlarga ishonchsizlik",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ijtimoiy muhitga tez moslashishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hamkorlikda ishlashni xohlashi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "quiz": "Gumanitar yordamda \"Shaffoflik\" tamoyili nima uchun muhim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat siyosiy reytingni oshirish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Aholining ijtimoiy himoya siyosatini shakllantirishdagi ishtirokini oshirish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Resurslarni yashirin taqsimlash uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Xalqaro tashkilotlarni nazorat qilish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "quiz": "Ijtimoiy ishda \"shaxsiy resurslar\"ga tayanish nima uchun zarur?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mijozning mustaqilligini oshirish va muammolarini o‘zi hal qilishga rag‘batlantirish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy ishchining ish yukini kamaytirish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat davlat byudjetini tejash uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tashqi yordamni butunlay to‘xtatish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "quiz": "Frustratsiyaning \"Ichki ziddiyatlar\" sababi nimadan iborat?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Maqsadga erishishga xalaqit beruvchi tashqi holatlar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Insonning o‘zi bilan bo‘lgan kurashi, istak va imkoniyatlar nomuvofiqligi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Jamiyat kutilmalari bilan inson istaklarining mos kelmasligi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ish topa olmaslik muammosi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "quiz": "Gumanitar krizis sharoitida \"Ijtimoiy o‘lchov\" qaysi vaziyatlarni qamrab oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yer silkinishi va toshqinlarni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Urush, etnik ziddiyatlar va siyosiy beqarorlikni",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Inflyatsiya va ishsizlikni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ruhiy tushkunlik va travmalarni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "quiz": "\"Inson markazlashgan yondashuv\" (Person-centered approach) mohiyati nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Har bir insonning noyob ehtiyojlari va sharoitlarini hisobga olish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Umumiy muammolarni jamoaviy hal qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat texnologik imkoniyatlardan foydalanish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Davlat buyrug'ini bajarish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "quiz": "Gumanitar krizisda ijtimoiy ishchilarning \"Edvokasy\" roli qaysi guruhlar uchun ko‘proq qo‘llaniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat boy va nufuzli shaxslar uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Majburiy ko‘chirilganlar va ijtimoiy jihatdan chetlatilgan guruhlar uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat davlat xizmatchilari uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Sport jamoalari uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "quiz": "\"Krizis menejmenti\" glossariyda qanday ta'riflangan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat moddiy resurslarni yig'ish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Favqulodda holatlarni oldini olish va boshqarish jarayoni",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xalqaro shartnomalar tuzish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Aholini ommaviy evakuatsiya qilish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "quiz": "Ijtimoiy ish bo‘yicha \"O‘zbek modeli\"ning ajralib turuvchi xususiyati qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Oilani ijtimoiy muhofaza qilishning asosiy vositasi sifatida ko‘rish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat onlayn xizmatlarga tayanib ish yuritish",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Davlat boshqaruvidan butunlay mustaqil bo‘lish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat moddiy yordam bilan cheklanish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "quiz": "\"Ko'pqarali qo'llab-quvvatlash modeli\"ning tashkilot darajasidagi vazifasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Terapiya va maslahatlar berish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Resurslar taqdim etish, strategik qo'llab-quvvatlash va treninglar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Jamoaviy terapiya tashkil etish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Shaxsiy muammolarni tahlil qilish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "quiz": "Gumanitar krizislarda ijtimoiy ish fanining asosiy vazifasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Siyosiy partiyalar faoliyatini nazorat qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Zaif guruhlarni qo‘llab-quvvatlash va ijtimoiy muvozanatni tiklash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat harbiy operatsiyalarda ishtirok etish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Iqtisodiy islohotlar o‘tkazish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "quiz": "Ijtimoiy ishda \"Integratsiyalashgan yondashuv\" nima demakdir?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat bitta soha mutaxassisi bilan ishlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tibbiyot, ta’lim, psixologiya va boshqa sohalar bilan hamkorlikda ishlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat moddiy yordam ko'rsatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Xizmatlarni bir-biridan ajratgan holda ko'rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "quiz": "Qaysi bosqichda ijtimoiy ishchilar amalga oshirilgan yordamning samaradorligini baholaydilar?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faol javob bosqichida",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Baholash va tahlil bosqichida",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Krizis yuzaga kelishi bosqichida",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Profilaktika bosqichida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "quiz": "PTSB simptomlaridan biri bo‘lgan \"hushyorlik\" (hyperarousal) nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Doimiy eslab turish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tinchlanib bo‘lmaslik va haddan tashqari ehtiyotkorlik",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ijtimoiy izolyatsiya",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "O‘z-o‘zini ayblash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "quiz": "Gumanitar krizislarda xospis xizmatlarining o‘ziga xosligi nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Barcha bemorlarni davolash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Terminal holatdagi bemorlarga insoniy yondashuv va ruhiy yordam berish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat moddiy yordam tarqatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Aholini kasallikdan ommaviy emlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "quiz": "\"Genderga asoslangan zo‘ravonlik\"ning iqtisodiy ko‘rinishi qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Haqoratlash va tahqirlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Moliyaviy mustaqillikni cheklash yoki ish haqsiz qolishga majburlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Tan jarohati yetkazish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jinsiy tajovuz qilish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "quiz": "Gumanitar yordamda \"Inson xavfsizligi\" konsepsiyasi Orolbo‘yi misolida qaysi maqsadni ko‘zlaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat harbiy barqarorlikni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ekologik, ijtimoiy va iqtisodiy muammolarni integratsiyalashgan holda hal etishni",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat turizmni rivojlantirishni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Sanoat ishlab chiqarishini oshirishni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "quiz": "Ijtimoiy ishda \"Xizmatlarni muvofiqlashtirish\" jarayoni nima uchun kerak?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Turli tashkilotlar o‘rtasida resurslar va ma’lumotlarni bo‘lishish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat bitta mijoz bilan shug'ullanish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat hukumatga hisobot berish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Moddiy yordamni qisqartirish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "quiz": "ADHD tarixida 1902-yilda George Still qanday tashxisni birinchi marta ta'riflagan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ruhiy zaiflik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Diqqat yetishmovchiligi va xulq-atvor buzilishi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Minimal miya shikastlanishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Bolalar depressiyasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "quiz": "Ijtimoiy ishda \"ichki resurslarga tayanish\"ning uzoq muddatli foydasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mijozni har doim yordamga muhtoj qilib qo‘yadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijozlarning mustaqilligi va o‘zini-o‘zi boshqarish qobiliyatini oshiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat davlat xarajatlarini oshiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ijtimoiy ishchining tajribasini kamaytiradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "quiz": "\"Travmaga yo‘naltirilgan ijtimoiy ish\"ning asosiy vazifasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat oziq-ovqat yetkazib berish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xizmat ko‘rsatishning barcha bosqichlariga travma haqidagi bilimlarni integratsiya qilish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Jabrlanuvchini ayblash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat tibbiy muolajalarni o'tkazish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "quiz": "Gumanitar krizislarda ijtimoiy ishchilarning \"Emotsional barqarorlik\" ko‘nikmasi nima uchun zarur?",
+      "options": [
+        {
+          "id": 1,
+          "option": "O‘z his-tuyg‘ularini boshqarish va stress bilan samarali kurashish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Boshqalarga buyruq berish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faqat ma'lumotlarni yig'ish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Moliyaviy masalalarni hal qilish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "quiz": "\"Raqamli va masofaviy ijtimoiy ish\" qanday vositalarni o‘z ichiga oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat qog'oz hujjatlar bilan ishlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Telemaslahat, virtual guruhlar va mobil ilovalar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat yuzma-yuz muloqot",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat televideniye orqali reklama",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "quiz": "Ijtimoiy yordam olishga to‘siq bo‘ladigan \"Stigma\" tushunchasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ma'lumot yetishmovchiligi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ma'lum bir guruh yoki shaxsga nisbatan salbiy qarash va kamsitish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Geografik uzoqlik",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Moliyaviy resurslar yo'qligi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "quiz": "Sudandagi gumanitar inqirozda odamlar ochlikni yengish uchun nimaga murojaat qilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xalqaro tezkor yordamga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Yovvoyi o‘simliklar va begona o‘tlarni iste'mol qilishga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Qo'shni davlatlar yordamiga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat davlat pensiyasiga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "quiz": "BMTning \"Bola huquqlari to‘g‘risidagi konvensiyasi\" (1989) qurolli mojarolarda nimani maqsad qilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Bolalarni harbiy xizmatga jalb qilishni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Bolalar huquqlarini himoya qilish va ularni xavf-xatardan saqlashni",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat o'spirinlarni ishga joylashtirishni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Bolalarni oilasidan ajratishni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "quiz": "Gumanitar inqirozda \"Shelter\"lar (boshpanalar) qanday xizmat ko‘rsatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat jismoniy xavfdan himoya qiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xavfsiz muhit, asosiy ehtiyojlar va psixologik yordamni birlashtiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat doimiy uy-joy bilan ta'minlaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat tibbiy operatsiyalarni o'tkazadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "quiz": "\"Qayg‘u jarayoni\"ning (grief) uchinchi bosqichi darslikda qanday nomlangan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Inkor",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "G'azablanish",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Kelishmovchilik (muzokara)",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Depressiya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "quiz": "\"Ijtimoiy ish amaliyotga asoslangan kasb va akademik fan\" ekanligi darslikdagi qaysi ta'rifda keltirilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "O'zbek modeli ta'rifida",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy ishning global ta'rifida",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Keys-menejment ta'rifida",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Gumanitar krizis ta'rifida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "quiz": "Gumanitar inqirozlarda ijtimoiy ishchilar uchun \"SIZ\" (shaxsiy himoya vositalari) nima uchun muhim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat chiroyli ko'rinish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Pandemiya sharoitida qonuniy vazifalarni xavfsiz bajarish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Mijozlarni qo'rqitish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Moliyaviy daromadni oshirish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "quiz": "\"Genri Mintzberg\" menejerlik faoliyatini necha xil rolga bo'lib ta'riflagan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Beshta rol",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "O'nta rol (uchta toifada)",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Uchta rol",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Yigirmata rol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "quiz": "\"Ijtimoiy reyestr\" tizimini ishlab chiqishda eng muhim e'tibor qaratilishi lozim bo'lgan jihat nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat qog'oz shaklida yuritish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ma'lumot sifati va xatoliklarni (noto'g'ri chiqarish) kamaytirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat boylarni kiritish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Doimiy ravishda ro'yxatga olishdan qochish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "quiz": "Gumanitar inqirozlarda \"MHPSS\" (ruhiy sog'liq va psixososial qo'llab-quvvatlash) tizimi kim tomonidan zaruriy deb hisoblanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mahalliy bozorlar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "JSST (Jahon sog'liqni saqlash tashkiloti)",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat xususiy shifoxonalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Sport federatsiyalari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "quiz": "\"Gumanitar krizis\" tushunchasining mazmuni nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat iqtisodiy inqiroz",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Inson hayoti va jamiyat barqarorligiga tahdid soluvchi favqulodda holat",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Siyosiy partiyalarning almashishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mahalliy boshqaruv islohotlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "quiz": "Ijtimoiy ishda \"Zaif qatlamlar\" (vulnerable groups) deganda kimlar tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat boy va badavlat shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Bolalar, ayollar, keksalar va nogironlar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Davlat xizmatchilari",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Sportchilar va san'atkorlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "quiz": "\"Xalqaro Qizil Xoch\" tashkilotining gumanitar inqirozdagi roli qanday?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat saylovlarni o'tkazish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tibbiy yordam, oziq-ovqat va insonparvarlik yordamini ko'rsatish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat yangi yo'llar qurish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Harbiy harakatlarni boshqarish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "quiz": "Inqirozdan keyin shaxsni jamiyatga qayta moslashtirish jarayoni darslikda qanday nomlanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy izolyatsiya",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy reabilitatsiya",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Iqtisodiy islohot",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Siyosiy integratsiya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "quiz": "\"Qochoq\" (refugee) va \"Ichki ko‘chirilgan shaxs\" (IDP) o‘rtasidagi farq nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qochoq o‘z mamlakati ichida qoladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "IDP o‘z mamlakati ichida, qochoq esa mamlakatidan tashqarida boshpana qidiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ikkisi ham bir xil tushuncha",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat IDPlar yordam olish huquqiga ega",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "quiz": "\"WFP\" (Jahon oziq-ovqat dasturi) qachon Nobel mukofotini olgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "2010-yilda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "2020-yilda",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "2025-yilda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "1996-yilda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "quiz": "Ijtimoiy ishda \"Etika\" (ethics) tushunchasining glossariydagi ta'rifi qanday?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat qonunlarni bilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy ishda amal qilinadigan axloqiy tamoyillar majmuasi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Mijozga qattiqqo'l bo'lish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat pullik xizmat ko'rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "quiz": "O‘zbekistonda 2022-yilda gumanitar yordam ko‘rsatish bo‘yicha qaysi xab (hub) tashkil etilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Madaniy-ko'ngilochar xab",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Transport-logistika xabi (Afg'oniston uchun)",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Siyosiy tadqiqotlar xabi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Sport musobaqalari xabi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "quiz": "\"Oxfam\" tashkilotining asosiy maqsadi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat kosmosni o'rganish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Qashshoqlikka qarshi kurash va suv/sanitariya sharoitlarini yaxshilash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat yangi dori vositalarini yaratish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Harbiy texnika yetkazib berish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "quiz": "Darslikda \"Vikary travma\" (vicarious trauma) deb nimaga aytilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "To'satdan sodir bo'lgan zilzila",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijoz travmasini o'ziga qabul qilgan ijtimoiy ishchi ruhiy zo'riqishi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Bolalarning ota-onasidan ajralishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Iqtisodiy inqiroz natijasida qashshoqlashish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "quiz": "Ota-onasidan ajralgan bolalar uchun BMTning eng birinchi vazifasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ularni ishga joylashtirish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Bolalarni aniqlash, himoya qilish va xavfsiz joyga joylashtirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ularga yangi passport berish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ularni chet elga yuborish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "quiz": "\"Mehr-4\" insonparvarlik operatsiyasi natijasida qayerdan fuqarolar qaytarilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Suriyadan",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Afg‘onistondan",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Iroqdan",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Sudandan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "quiz": "Gumanitar inqirozda \"Empatiya\" deganda nima tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat hamdardlik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Birovni (mijozni) to‘liq tushunish va his qilish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Mijozga moddiy yordam berish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mijozning aybini yuziga solish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "quiz": "\"PTSB\" (Post-travmatik stress buzilishi) ning asosiy sababi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Oddiy charchoq",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Og‘ir psixologik zarba (urush, ofat, zo‘ravonlik)",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "To'g'ri ovqatlanmaslik",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat irsiy omillar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "quiz": "O‘zbekistonda xospislar tarmog‘i asosan qaysi viloyatlarda qurilgan va faoliyat ko‘rsatmoqda?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat Toshkent shahrida",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Samarqand, Farg‘ona va Xorazm",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat Buxoro va Navoiyda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jizzax va Sirdaryoda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "quiz": "\"Tutqunlik\" filmi qaysi voqealarga bag‘ishlangan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ikkinchi jahon urushiga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "\"Mehr\" insonparvarlik operatsiyalariga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Orol fojiasiga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Toshkent zilzilasiga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "quiz": "\"UNFPA\" tashkilotining asosiy yo‘nalishi darslikda qanday ko‘rsatilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "O'rmonlarni saqlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Reproduktiv salomatlik va gender tengligini ta'minlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Avtomobil yo'llarini qurish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat o'qituvchilarni tayyorlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "quiz": "Gumanitar inqirozda \"Vulnerability\" (zaiflik) glossariyda qanday ta'riflanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat jismoniy kuchsizlik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Shaxs yoki guruhning krizis oldida zaif holati",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Doimiy kasallik",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Pul yetishmasligi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "quiz": "\"MSF\" (Chegara bilmas shifokorlar) tashkiloti qanday yordam beradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat yangi maktablar ochadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Favqulodda vaziyatlarda tibbiy yordam ko‘rsatadi va inson huquqlarini himoya qiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat siyosiy maslahatlar beradi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Sanoat zavodlarini quradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "quiz": "Ijtimoiy ishda \"Aralashuv\" (intervention) tushunchasining maqsadi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mijozning hayotiga noqonuniy kirish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijozga muammodan chiqishda yordam berish uchun ishlab chiqilgan choralar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Mijozni qamoqqa olish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mijozning uyini sotish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "quiz": "Gumanitar yordamda \"Donor\" deganda kim tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat yordam oluvchi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Yordam ko‘rsatish uchun mablag‘ ajratuvchi tomon",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat qochqin",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ijtimoiy xodim",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "quiz": "\"Rohinja\" musulmonlari qaysi davlatdan Bangladeshga qochib o'tishgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Suriyadan",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Myanmadan",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Sudandan",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Yamandan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "quiz": "Darslikda \"Sotsializatsiya\" (ijtimoiylashuv) deganda nima tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yolg'iz yashash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Shaxsning jamiyatga qayta moslashishi va integratsiyasi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat maktabda o'qish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Internetdan foydalanish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "quiz": "\"Orolbo‘yi\" mintaqasi uchun tashkil etilgan fond qanday nomlanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ekologiya fondi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Inson xavfsizligi bo‘yicha ko‘psheriklik trast fondi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Suv fondi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Qurilish fondi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "quiz": "\"Zudlik bilan yordam\" (Immediate response) qachon ko'rsatiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Inqiroz tugaganidan keyin bir yil o'tib",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Favqulodda vaziyatga darhol",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat mijoz so'raganda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat bayram kunlarida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "quiz": "A.Q. Shirinovning ushbu o‘quv qo‘llanmasi qaysi ta’lim yo‘nalishi uchun mo‘ljallangan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Iqtisodiyot",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy ish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Huquqshunoslik",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Matematika",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "quiz": "Gumanitar krizislar sharoitida ijtimoiy ish fanining predmeti nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat kosmik texnologiyalar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Krizis sharoitida ijtimoiy ish nazariyasi, metodlari va amaliyoti",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat bank tizimi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tog'larni o'rganish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "quiz": "Gumanitar inqirozlarning asosiy turlaridan biri qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Sport musobaqalari",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tabiiy ofatlar (zilzila, toshqin)",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Kino sanoati inqirozi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Moda namoyishi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "quiz": "Ijtimoiy ishda \"Empatiya\" qanday ko‘nikma?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Boshqalarni ayblash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Boshqalarning his-tuyg‘ularini tushunish va hurmat qilish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat pul hisoblash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jim o'tirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "quiz": "\"BMT\" (Birlashgan Millatlar Tashkiloti) ning asosiy vazifasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat savdo qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Global krizislarda odamlarga yordam berish va tinchlikni saqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat sportni rivojlantirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Kompyuterlar ishlab chiqarish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "quiz": "Zilzila natijasida uysiz qolgan aholiga yordam berish qaysi soha vazifasi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "San'atshunoslik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy ish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Geologiya",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Adabiyotshunoslik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "quiz": "O‘zbekistonda ijtimoiy ish kadrlarini tayyorlash asosan qayerda amalga oshiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat bozorlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Universitetlarda",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat sport klublarida",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Fabrikalarda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "quiz": "Pandemiya (masalan COVID-19) ijtimoiy ishchilar faoliyatiga qanday ta’sir qildi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ishni butunlay to‘xtatdi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Yangi qiyinchiliklar va onlayn xizmatlarga e’tiyojni oshirdi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat dam olishga sabab bo'ldi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech qanday ta'sir qilmadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "quiz": "\"Stress\" tushunchasi glossariyda qanday ifodalangan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat uyquchanlik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ruhiy, jismoniy yoki hissiy salomatlikka kuchli ta'sir qiluvchi holat",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat quvonch",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ovqat yeyish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "quiz": "Gumanitar krizisda birinchi navbatda nima yetkazib beriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hashamatli buyumlar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Oziq-ovqat, suv va tibbiy yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat kitoblar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Yangi mashinalar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "quiz": "\"Ijtimoiy himoya\" glossariyda qanday ta'riflangan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat boylarni himoya qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Aholining zaif qatlamlariga yordam ko'rsatish tizimi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Harbiy xizmat",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Saylovlarni tashkil etish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "quiz": "Ijtimoiy ishda \"Xavfsizlik protokollari\" nima uchun kerak?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat qog'oz yozish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Krizis holatida amal qilinadigan xavfsizlik qoidalari uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Bayram qilish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech qanday foydasi yo'q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "quiz": "Gumanitar inqirozda \"Ayollar\" nega zaif qatlam hisoblanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat uyda o'tirgani uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Zo'ravonlik va befarqlikka nisbatan ko'proq zaif bo'lganlari uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ularga yordam kerak emas",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat bolalari borligi uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "quiz": "Ijtimoiy ishda \"Ko‘ngillilik\" (volunteering) nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Majburiy mehnat",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "O‘z ixtiyori bilan beg‘araz yordam ko‘rsatish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat pullik xizmat",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Harbiy harakat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "quiz": "Inqiroz paytida ota-onasidan ajralgan bolalar qayerga joylashtiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Bozorlarga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xavfsiz joylarga yoki mehribonlik uylariga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ko'chaga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat fabrikalarga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "quiz": "\"Ijtimoiy ish\" professional faoliyat turi sifatida nimaga qaratilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat o'z manfaatini o'ylashga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Insonlar hayot sifatini yaxshilashga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat pul yig'ishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech narsa qilmaslikka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "quiz": "Gumanitar inqiroz sabablaridan biri qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Oddiy yomg'ir",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Qurolli mojarolar va urushlar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Televizor tomosha qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Sport tadbirlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "quiz": "\"Gender tengligi\" deganda nima tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat erkaklar huquqi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ayol va erkaklarning teng huquq va imkoniyatlarga ega bo‘lishi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat ayollar huquqi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech qanday huquq yo'qligi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "quiz": "Ijtimoiy ishda \"Hamkorlik\" nima uchun muhim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat bitta odam hamma narsani qilishi uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Muammolarni tez va samarali hal qilish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Hech qanday foydasi yo'q",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat suhbatlashish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "quiz": "Gumanitar yordamda \"Oziq-ovqat\" yordami qaysi tashkilotning asosiy vazifasi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Sport qo'mitasi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "WFP (Jahon oziq-ovqat dasturi)",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat banklar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Avtomobil zavodlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "quiz": "\"Xavf tahlili\" glossariyda qanday ta'riflangan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat rasm chizish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Potensial tahdid va ularning oqibatlarini aniqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat bayram qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jim turish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "quiz": "Ijtimoiy ishda \"Muloqot\" (communication) nima uchun kerak?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mijozni qo'rqitish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijoz bilan ishonchli aloqa o'rnatish va yordam berish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat vaqt o'tkazish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech qanday foydasi yo'q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "quiz": "\"Mehnat bozoriga moslashish\" ijtimoiy ishning qaysi yordami turiga kiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tibbiy yordam",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ta'lim va ijtimoiy yordam",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat sport yordami",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech qanday yordamga kirmaydi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "quiz": "\"Ijtimoiy ishchi\" kasbi qanday xususiyatga ega bo'lishi kerak?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat qattiqqo'l",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Hamdard, bilimli va madaniy sezgir",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat pul o'ylaydigan",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech narsani bilmaydigan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "quiz": "Ijtimoiy ishda \"Madaniy kompetensiya\" (cultural competence) deganda nima tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat boshqa tillarni mukammal bilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijozning madaniy qadriyatlari, e’tiqodi va urf-odatlarini hurmat qilgan holda xizmat ko‘rsatish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Mijozni o‘z madaniyatidan voz kechishga undash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat chet ellik mutaxassislar bilan ishlash qobiliyati",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "quiz": "BMTning Qochqinlar bo‘yicha Oliy komissarligi (UNHCR) qachon tashkil etilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "1945-yilda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "1950-yilda",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "1960-yilda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "1991-yilda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "quiz": "Gumanitar krizislarda \"Palliativ yordam\"ning asosiy falsafasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Kasallikni har qanday yo‘l bilan butunlay davolash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Bemorning og‘riqlarini kamaytirish va hayot sifatini oxirigacha saqlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat yosh bolalarga tibbiy xizmat ko‘rsatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tibbiy xarajatlarni qisqartirish strategiyasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "quiz": "Ijtimoiy ishda \"Konfidensiallik\" tamoyili qachon buzilishi mumkin?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy xodimning kayfiyati yomon bo‘lganda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijozning hayoti yoki atrofdagilar xavfsizligiga jiddiy tahdid tug‘ilganda",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "OAV vakillari ma’lumot so‘raganda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech qanday holatda buzilishi mumkin emas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "quiz": "\"Mehr\" operatsiyalari orqali qaytarilgan ayollarga nisbatan qo‘llanilgan \"Reintegratsiya\" jarayoni nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ularni jamiyatdan ajratib qo‘yishni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ularni qaytadan jamiyatning to‘laqonli a’zosiga aylantirish va oilasiga qaytarishni",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat yangi uy-joy berishni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ularni boshqa davlatga yuborishni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "quiz": "Ijtimoiy ishda \"Paternalizm\" (vasiylik) yondashuvining salbiy tomoni nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mijozga juda ko‘p erkinlik berishi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijoz o‘rniga qaror qabul qilish orqali uning mustaqilligini cheklashi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Iqtisodiy yordamni ko‘paytirishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat guruhlar bilan ishlashi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "quiz": "Gumanitar inqirozlarda \"Triage\" (saralash) tizimi tibbiy va ijtimoiy sohada nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yordamni faqat eng boylarga berish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ahvoli og‘irligi va shoshilinchligiga qarab yordam navbatini belgilash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Alifbo tartibida yordam ko‘rsatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat tanish-bilishlarga yordam berish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "quiz": "Orolbo‘yi mintaqasidagi ijtimoiy ishning eng ustuvor yo‘nalishi darslikda qanday keltirilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat baliqchilikni rivojlantirish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Aholining salomatligi va inson xavfsizligini ekologik inqiroz sharoitida ta’minlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Yangi zavodlar qurish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hududni butunlay bo‘shatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "quiz": "Ijtimoiy xodimning \"Burnout\" (kasbiy charchash) sindromini oldini olish uchun qanday amaliyot o‘tkaziladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ko‘proq ishlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Superviziya va psixologik qo‘llab-quvvatlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Mijozlar bilan muloqotni butunlay to‘xtatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Maoshni kamaytirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "quiz": "\"Gumanitar koridor\" tushunchasi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat harbiy samolyotlar uchar yo‘li",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tinch aholini evakuatsiya qilish va yordam yetkazish uchun xavfsiz vaqtinchalik hudud",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat elchixonalar binolari",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Chegaradagi savdo do‘konlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "quiz": "\"Ijtimoiy ish\" fanining metodologik asosi sifatida qaysi nazariya darslikda keng yoritilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Klassik mexanika nazariyasi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tizimli-ekologik yondashuv (Systems theory)",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat iqtisodiy rentabellik nazariyasi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Relyativizm nazariyasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "quiz": "Gumanitar yordamda \"Neytrallik\" (betaraflik) tamoyili nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat bir tomonga yordam berish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Qurolli mojarolarda hech bir siyosiy yoki harbiy tomonni qo‘llab-quvvatlamaslik",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Yordam berishdan bosh tortish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat pullik yordam ko‘rsatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "quiz": "\"Inqirozli vaziyatlar markazi\" (Crisis center) ning asosiy vazifasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat hujjatlarni saqlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Zo‘ravonlikka uchragan shaxslarga tezkor psixologik va huquqiy yordam berish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Saylovlarni tashkil etish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tadbirkorlarga kredit berish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "quiz": "Ijtimoiy ishda \"Empowerment\" (vakolatlantirish) strategiyasining maqsadi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mijozni davlatga butunlay qaram qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mijozning o‘z huquqlarini himoya qilish va mustaqil qaror qabul qilish qobiliyatini oshirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat moddiy mablag‘ berish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mijozning o‘rniga hamma ishni bajarish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "quiz": "PTSBga chalingan bolalar bilan ishlashda qaysi metod samaraliroq hisoblanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat ma’ruza o‘qish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Art-terapiya va o‘yin terapiyasi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ularni qattiq nazorat qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ularni kattalar bilan birga ishlashga majburlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "quiz": "Darslikda \"Ijtimoiy adolat\" tushunchasi ijtimoiy ishning nima sifatida ko‘rsatilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ikkinchi darajali vazifasi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Asosiy tamoyili va axloqiy asosi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat huquqshunoslar ishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Iqtisodiy foyda manbai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "quiz": "Gumanitar krizis sharoitida \"Axborot xavfsizligi\" nima uchun muhim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat kompyuter o‘yinlari uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Jabrlanganlar haqidagi shaxsiy ma’lumotlarni begonalardan himoya qilish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ma’lumotlarni pullash uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hech qanday ahamiyati yo‘q",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "quiz": "\"Xalqaro migratsiya tashkiloti\" (IOM) asosiy e’tiborni nimaga qaratadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat sportchilarga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tartibli va insonparvar migratsiyani ta’minlash hamda migrantlar huquqini himoya qilishga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Chegaralarni butunlay yopishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat sayyohlarga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "quiz": "Ijtimoiy ishda \"Monitoring\" jarayoni nima uchun o‘tkaziladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat xodimlarni jazolash uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Amalga oshirilayotgan yordam rejasining borishini va samaradorligini kuzatish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Vaqtni bekor o‘tkazish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mijozning shaxsiy hayotini josuslik qilish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "quiz": "Gumanitar inqirozlarda \"Oziq-ovqat xavfsizligi\" (Food security) nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat ovqatning mazali bo‘lishini",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Barcha odamlarning doimiy ravishda yetarli va to‘yimli oziq-ovqatga ega bo‘lish imkoniyatini",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat bayramlarda bepul ovqat tarqatishni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Oziq-ovqat do‘konlarini qo‘riqlashni",
           "isCorrect": false
         }
       ]
