@@ -1299,6 +1299,2164 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": 51,
+      "quiz": "Ijtimoiy muhofaza tizimida “aktiv siyosat” nimani nazarda tutadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat nafaqa to‘lashni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat kompensatsiya berishni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Bandlikni ta’minlash va o‘zini o‘zi ta’minlashni rag‘batlantirishni",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat vaqtinchalik yordamni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "quiz": "Jahon tajribasida “ijtimoiy davlat” modeli qaysi xususiyat bilan ajralib turadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat aralashuvining yo‘qligi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat xususiy sektor ustunligi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Davlatning kuchli ijtimoiy majburiyatlari bilan",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat harbiy xarajatlar bilan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "quiz": "Ijtimoiy siyosatning iqtisodiyot bilan o‘zaro bog‘liqligi nimada namoyon bo‘ladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat soliqlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat budjetda",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Daromadlar taqsimoti va resurslardan foydalanishda",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat eksportda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "quiz": "Ijtimoiy siyosatda “inson kapitali” tushunchasi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat mehnat resurslari sonini",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat aholi sonini",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Bilim, salomatlik va malaka yig‘indisini",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat yoshlarni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "quiz": "Ijtimoiy xizmatlarni xususiy sektor tomonidan ko‘rsatish nimani ta’minlaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat rolini yo‘qotadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xizmat sifatini pasaytiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Raqobat va xizmatlar sifatining oshishini",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Ijtimoiy tengsizlikni kuchaytiradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "quiz": "Ijtimoiy siyosatning institutsional mexanizmlari nimani o‘z ichiga oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat vazirliklarni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat mahalliy hokimiyatni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Davlat va nodavlat institutlar tizimini",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat xalqaro tashkilotlarni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "quiz": "Ijtimoiy siyosatning institutsional yondashuvi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat qonunlarni o‘rganishni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat iqtisodiy ko‘rsatkichlarni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Ijtimoiy siyosatni amalga oshiruvchi institutlar tizimini tahlil qilishni",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat siyosiy qarorlarni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "quiz": "Ijtimoiy siyosatda “manzilli yordam” va “universal yordam” farqi nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ikkalasi bir xil tushuncha",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Universal yordam faqat kambag‘allarga beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Manzilli yordam ehtiyoj asosida, universal yordam esa umumiy beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Manzilli yordam doimiy, universal yordam vaqtinchalik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "quiz": "Ijtimoiy xizmatlar sifatini baholashda qaysi omil muhim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat moliyaviy xarajat",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat xizmat ko‘rsatuvchi soni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Xizmatdan foydalanuvchilarning qoniqish darajasi",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat hisobotlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "quiz": "Ijtimoiy siyosatda “aktiv” va “passiv” choralar o‘rtasidagi asosiy farq nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Moliyalashtirish hajmida",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Davlat ishtirokida",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faollashtiruvchi va kompensatsion yondashuvda",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Huquqiy asosida",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "quiz": "Mehnat bozori siyosati ijtimoiy siyosatning qaysi yo‘nalishiga kiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat iqtisodiy siyosatga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat moliya siyosatiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Bandlik va daromadlar siyosatiga",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat ta’lim siyosatiga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "quiz": "Ijtimoiy siyosatda keksalar uchun xizmatlar nimaga qaratilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat moddiy yordamga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat tibbiy xizmatga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Faol qarilik va ijtimoiy integratsiyaga",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat parvarishga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "quiz": "Sog‘liqni saqlash siyosati ijtimoiy siyosatning qaysi maqsadiga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat kasalliklarni davolashga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat tibbiy xizmat ko‘rsatishga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Aholining hayot sifati va umr davomiyligini oshirishga",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat tibbiy statistika yuritishga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "quiz": "Ijtimoiy siyosatning moliyaviy barqarorligi nimaga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat tashqi yordamga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat kreditlarga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Byudjet intizomi va daromad manbalariga",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat xayriya mablag‘lariga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "quiz": "Ijtimoiy siyosatda subsidiya va kompensatsiya o‘rtasidagi farq nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ikkalasi bir xil",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Subsidiyalar faqat pul shaklida",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Subsidiyalar oldindan, kompensatsiyalar keyinchalik beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Kompensatsiya doimiy bo‘ladi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "quiz": "Ijtimoiy siyosatda jamoatchilik nazorati nimani ta’minlaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat tanqidni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat axborot tarqatishni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Ochiqlik va hisobdorlikni",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat hisobotni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "quiz": "Ijtimoiy siyosatda davlat-xususiy sheriklikning ahamiyati nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat rolini kamaytirishda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xususiy sektorni cheklashda",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Resurslarni samarali jalb qilishda",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Ijtimoiy xizmatlarni qisqartirishda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy risk tushunchasi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat moliyaviy xatarni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat iqtisodiy inqirozni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Inson hayotida daromad yoki imkoniyat yo‘qotish xavfini",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat tabiiy ofatlarni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy kafolatlar nimani bildiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat va’dalarni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat tavsiyalarni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Davlat tomonidan belgilangan minimal himoya darajasini",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat yordamni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "quiz": "Ijtimoiy siyosatda barqaror rivojlanish konsepsiyasi nimani nazarda tutadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat iqtisodiy o‘sishni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat ekologiyani",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Iqtisodiy, ijtimoiy va ekologik muvozanatni",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat ijtimoiy yordamni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy innovatsiyalar nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat yangi qonunlarni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat yangi soliqlarni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Ijtimoiy muammolarni hal etishning yangi usullarini",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat texnologiyalarni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "quiz": "Ijtimoiy siyosatda xalqaro tashkilotlar ishtiroki nimani ta’minlaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat suverenitetini kamaytiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat moliyaviy yordamni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tajriba almashuvi va qo‘shimcha resurslarni",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat nazoratni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "quiz": "Ijtimoiy siyosatda samaradorlik va adolat muvozanati nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat samaradorlikni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat adolatni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Resurslardan oqilona foydalanish va ijtimoiy tenglikni",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat byudjetni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "quiz": "Ijtimoiy siyosat fan sifatida nimani o‘rganadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat davlat qarorlarini",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Faqat ijtimoiy muammolarni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Ijtimoiy jarayonlarni tartibga solish mexanizmlarini",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Faqat iqtisodiy ko‘rsatkichlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "quiz": "Ijtimoiy siyosat subyekti sifatida qaysilar faoliyat yuritadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat davlat",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Davlat va nodavlat institutlar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat mahalla",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat xususiy sektor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "quiz": "Ijtimoiy siyosat obyektiga asosan nimalar kiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tabiiy resurslar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Aholining ijtimoiy guruhlari va qatlamlari",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Bozor munosabatlari",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Davlat byudjeti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "quiz": "Ijtimoiy himoyaga eng ko‘p ehtiyoji bo‘lgan qatlam qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tadbirkorlar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy zaif qatlamlar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Davlat xizmatchilari",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Investorlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "quiz": "Ijtimoiy siyosat qaysi tamoyilga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Raqobat tamoyiliga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy adolat tamoyiliga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Monopoliya tamoyiliga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Foyda olish tamoyiliga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "quiz": "Ijtimoiy siyosatning hududiy darajasi qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Global",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mahalliy",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xalqaro",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Transmilliy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "quiz": "Ijtimoiy siyosatning asosiy instrumentlaridan biri bu:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Reklama",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy dasturlar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Marketing",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Savdo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "quiz": "Aholini ijtimoiy himoyalashda manzillilik nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Barcha aholiga teng yordam",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Yordamni ehtiyojmandlarga yo‘naltirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat pensionerlarga yordam",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat yoshlar bilan ishlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy tenglik deganda nima tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hammaga bir xil maosh",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Imkoniyatlarda tenglik",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat daromad tengligi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Soliq imtiyozlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "quiz": "Ijtimoiy siyosatda monitoring nima uchun kerak?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Nazorat va baholash uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Jazolash uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Hisobotni yashirish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mablag‘ni qisqartirish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "quiz": "Ijtimoiy siyosatda indikatorlar nimani ko‘rsatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Natijalarni o‘lchash ko‘rsatkichlarini",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xarajatlar miqdorini",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Qonunlar sonini",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Rahbarlar faoliyatini",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "quiz": "Ijtimoiy siyosatning samaradorligi nimaga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat mablag‘ga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Rejalashtirish va amalga oshirish sifatiga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Aholi soniga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Soliq stavkalariga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "quiz": "Mahalla orqali yordam ko‘rsatishning afzalligi nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tezkor va manzilli",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Qimmat",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Murakkab",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Markazlashgan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "quiz": "Ijtimoiy siyosatda nodavlat notijorat tashkilotlarining roli:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ikkinchi darajali",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Hamkor va ijrochi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Nazoratchi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Raqib",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "quiz": "Ijtimoiy siyosatning demografik yo‘nalishi nimani qamrab oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ishsizlik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tug‘ilish, o‘lim va migratsiya",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Savdo",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Soliq",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "quiz": "Ijtimoiy siyosatda kambag‘allikni qisqartirish nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat daromadini kamaytirishga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy barqarorlikka",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Soliq yukini oshirishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Bozorni cheklashga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "quiz": "Ijtimoiy siyosatda ta’limning o‘rni nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat bilim berish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Inson kapitalini rivojlantirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Soliq bazasini kamaytirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazorat mexanizmi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "quiz": "Sog‘liqni saqlash ijtimoiy siyosatning qaysi tarkibiy qismi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Iqtisodiy",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy xizmatlar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Siyosiy",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ma’muriy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "quiz": "Ijtimoiy siyosatda manzilli yordamni aniqlashda qaysi usul muhim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Statistik tahlil",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifiy tanlash",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Reklama",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Subyektiv baho",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "quiz": "Ijtimoiy siyosatda yoshlar siyosati nimani ko‘zlaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat sportni rivojlantirish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Yoshlarning ijtimoiy faolligini oshirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Soliq imtiyozlari",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Migratsiyani cheklash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "quiz": "Ijtimoiy siyosatda gender tengligi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat ayollar huquqi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Erkak va ayollarning teng imkoniyatlari",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Oilani cheklash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mehnatni ajratish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "quiz": "Ijtimoiy siyosatda nogironligi bo‘lgan shaxslar bilan ishlash nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xayriya",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Inklyuziya va moslashuv",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Cheklash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ajratish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "quiz": "Ijtimoiy siyosatda ishsizlikning salbiy oqibati:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mehnat unumdorligi oshadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy muammolar kuchayadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Daromadlar ortadi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Bozor kengayadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "quiz": "Ijtimoiy siyosatning uzoq muddatli natijasi nimada namoyon bo‘ladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tezkor yordamda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Jamiyat barqarorligida",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Qisqa muddatli foydada",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Qo'shimcha variant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "quiz": "Ijtimoiy siyosatda preventiv (oldini oluvchi) yondashuvning mohiyati nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Muammo yuzaga kelgach yordam ko‘rsatish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Muammolarni oldindan aniqlab, bartaraf etish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Jazolash choralarini kuchaytirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Moliyalashtirishni kamaytirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "quiz": "Ijtimoiy siyosatda “inson kapitali” tushunchasi qaysi omillarni qamrab oladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat daromadni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ta’lim, sog‘liq va malakani",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Tabiiy resurslarni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ishlab chiqarish vositalarini",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "quiz": "Ijtimoiy siyosatning institutsional mexanizmlari deganda nima tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat qonunlar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy siyosatni amalga oshiruvchi tashkilotlar tizimi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat moliyaviy manbalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Statistika organlari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "quiz": "Ijtimoiy siyosatda “ijtimoiy xizmatlar sifati” qanday baholanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat xarajatlar orqali",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Aholi ehtiyojini qondirish darajasi orqali",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Hisobotlar soni orqali",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Kadrlar soni orqali",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "quiz": "Ijtimoiy siyosatning redistributiv (qayta taqsimlovchi) funksiyasi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Resurslarni faqat boylar o‘rtasida taqsimlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Daromadlar o‘rtasidagi tafovutni kamaytirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Bozor mexanizmini kuchaytirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Davlat rolini qisqartirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "quiz": "Ijtimoiy siyosatda byudjet siyosati bilan bog‘liqlik nimada namoyon bo‘ladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy dasturlarni moliyalashtirishda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Soliq yig‘ishni bekor qilishda",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat iqtisodiy rejalarda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni cheklashda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "quiz": "Ijtimoiy siyosatda “barqaror rivojlanish” tushunchasi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qisqa muddatli iqtisodiy foyda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy, iqtisodiy va ekologik muvozanat",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat sanoat rivoji",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Davlat xarajatlarini oshirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "quiz": "Ijtimoiy siyosatda ehtiyojlarni aniqlashning eng ishonchli usuli qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Taxmin",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Empirik tadqiqot va monitoring",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Rahbar qarori",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ommaviy axborot vositalari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "quiz": "Ijtimoiy siyosatda “ijtimoiy sheriklik” nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlatning yakka faoliyati",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Davlat, biznes va fuqarolik jamiyati hamkorligi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xususiy sektor ustunligi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat nodavlat sektor faoliyati",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "quiz": "Ijtimoiy siyosatda normativ-huquqiy bazaning ahamiyati nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat nazariy ahamiyatga ega",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Siyosatni qonuniy va tizimli amalga oshirishni ta’minlaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ijtimoiy ishni cheklaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mablag‘ni kamaytiradi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "quiz": "Ijtimoiy siyosatda hududlararo tafovutlar nimaga olib kelishi mumkin?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Rivojlanishning tezlashishiga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy tengsizlikning kuchayishiga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Soliq tushumlarining ortishiga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ijtimoiy muammolarning kamayishiga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "quiz": "Ijtimoiy siyosatda manzillilik prinsipining buzilishi nimaga olib keladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Resurslardan samarali foydalanishga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Yordamning noto‘g‘ri taqsimlanishiga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ijtimoiy adolatning oshishiga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ijtimoiy faollikning kuchayishiga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "quiz": "Ijtimoiy siyosatda “ijtimoiy kafolatlar” tushunchasi nimani bildiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ixtiyoriy yordam",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Davlat tomonidan ta’minlanadigan minimal ijtimoiy ta’minot",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xususiy sektor yordami",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Vaqtinchalik choralar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "quiz": "Ijtimoiy siyosatda mehnat bozorini tartibga solishning asosiy maqsadi:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ishchi kuchini cheklash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Bandlikni ta’minlash va himoya qilish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Maoshlarni pasaytirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Migratsiyani to‘xtatish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy investitsiyalar nimaga qaratilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tezkor foyda olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Uzoq muddatli ijtimoiy rivojlanishga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xarajatlarni qisqartirishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni kuchaytirishga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "quiz": "Ijtimoiy siyosatda “ijtimoiy exclusion” (chetlashuv) nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy faollikning ortishi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ayrim guruhlarning jamiyat hayotidan chetda qolishi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Tenglikning kuchayishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Resurslarning ko‘payishi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "quiz": "Ijtimoiy siyosat samaradorligini baholashda qaysi yondashuv muhim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat moliyaviy",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Kompleks (ijtimoiy-iqtisodiy)",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Subyektiv",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ma’muriy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "quiz": "Ijtimoiy siyosatda aholi ishonchi nimaga ta’sir qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Siyosatning qabul qilinishiga va natijadorligiga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat reklama samaradorligiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Soliq stavkalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hisobot hajmiga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "quiz": "Ijtimoiy siyosatda raqamlashtirishning asosiy afzalligi:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xarajatlarni yashirish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Shaffoflik va tezkorlikni oshirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Nazoratni yo‘qotish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Byurokratiyani kuchaytirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "quiz": "Ijtimoiy siyosatda “ijtimoiy adolat” tushunchasi nimani taqozo etadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hammaga bir xil natija",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ehtiyoj va imkoniyatlarga mos yondashuv",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat teng daromad",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Davlat rolini kamaytirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "quiz": "Ijtimoiy siyosatda aholi turmush darajasi qanday ko‘rsatkichlar bilan baholanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat YAIM bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Daromad, bandlik, sog‘liq va ta’lim orqali",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat narxlar bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Soliq tushumi bilan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "quiz": "Ijtimoiy siyosatda maqsadli dasturlar nimasi bilan ahamiyatli?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Umumiy xarakterga ega",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Aniq muammoga yo‘naltirilgan",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Nazoratsiz",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Qisqa muddatli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy rejalashtirish nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tasodifiy qarorlar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Kelajak ijtimoiy ehtiyojlarni oldindan belgilash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat statistik tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hisobot tayyorlash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "quiz": "Ijtimoiy siyosatda global va milliy siyosat o‘rtasidagi farq nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Maqsadlar bir xil",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Amalga oshirish darajasi va kontekstida",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Moliyaviy manbalarda emas",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazorat mexanizmida emas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "quiz": "Ijtimoiy siyosatda krizis holatidagi asosiy vazifa:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Rivojlanishni sekinlashtirish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Aholini ijtimoiy himoyalashni kuchaytirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xarajatlarni to‘xtatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni bekor qilish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "quiz": "Ijtimoiy siyosatda “ijtimoiy moslashuv” tushunchasi nimani bildiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qarshilik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Shaxsning yangi ijtimoiy sharoitga moslashuvi",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Ijtimoiy cheklash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazorat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "quiz": "Ijtimoiy siyosatda ma’lumotlar bazasining ahamiyati nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat saqlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Qaror qabul qilish sifatini oshirish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Nazoratni kamaytirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Statistikani yashirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "quiz": "Ijtimoiy siyosatda hududiy yondashuv nimani ta’minlaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Markazlashuvni",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Mahalliy ehtiyojlarni hisobga olishni",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xarajatlarni oshirishni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni zaiflashtirishni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "quiz": "Ijtimoiy siyosatda teng imkoniyatlar tamoyili nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Teng natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Boshlang‘ich sharoitlarda adolat",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat moliyaviy tenglik",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Cheklovlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "quiz": "Ijtimoiy siyosatda tahliliy hisobotlar nima uchun zarur?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat arxiv uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Qarorlarni asoslash uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Nazoratni bekor qilish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mablag‘ni qisqartirish uchun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "quiz": "Ijtimoiy siyosatda resurslar yetishmovchiligi qanday hal etiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tasodifiy taqsimlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ustuvorliklarni belgilash orqali",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Yordamni to‘xtatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni kamaytirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy innovatsiyalar nimani bildiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Eski usullarni takrorlash",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Muammolarni hal etishda yangi yondashuvlar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xarajatlarni oshirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni cheklash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy barqarorlikning asosiy omili:",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yuqori daromad",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy ishonch va adolat",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Soliq stavkalari",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Markazlashuv",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "quiz": "Ijtimoiy siyosatda davlatning mas’uliyati nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Faqat nazorat",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Minimal ijtimoiy kafolatlarni ta’minlash",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat moliyalashtirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Bozorni to‘liq almashtirish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "quiz": "Ijtimoiy siyosatda ijtimoiy prognozlash nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "O‘tmishni baholashga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Kelajakdagi ijtimoiy jarayonlarni oldindan ko‘rishga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Hisobot tuzishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni bekor qilishga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "quiz": "Ijtimoiy siyosatda tizimli yondashuvning ustunligi nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Muammolarni alohida ko‘rishda",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ijtimoiy jarayonlarni o‘zaro bog‘liqlikda tahlil qilishda",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Faqat iqtisodiy baholashda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni soddalashtirishda",
+          "isCorrect": false
+        }
+      ]
     }
   ],
   "Mahalla_va_oila": [
@@ -2598,6 +4756,1358 @@
         {
           "id": 4,
           "option": "Jadvalni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "quiz": "Sotsiologik tadqiqotning predmeti nimani ifodalaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Jamiyatning umumiy holatini",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Obyektdagi muayyan jihat va xususiyatlarni",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Tadqiqot metodlarini",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Respondentlar sonini",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "quiz": "Intervyu metodining asosiy xususiyati nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yozma shaklda bo‘lishi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Bevosita muloqot asosida o‘tkazilishi",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Statistik tahlilga asoslanishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Masofaviy bo‘lishi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "quiz": "Oila sotsiologiyasi nimani o‘rganadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat tuzilishini",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Oila va oilaviy munosabatlarni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Siyosiy jarayonlarni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Bozor munosabatlarini",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "quiz": "Tadqiqot gipotezasi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Natijalar jadvali",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ilmiy taxmin",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "So‘rovnoma",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Kuzatuv xulosasi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "quiz": "Respondent deganda nima tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tadqiqotni o‘tkazuvchi shaxs",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "So‘rovda ishtirok etuvchi shaxs",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tadqiqot buyurtmachisi",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Statistik mutaxassis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "quiz": "Mahallada ijtimoiy muammolarni aniqlashda qaysi metod samaraliroq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Eksperiment",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "So‘rov va intervyu",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Modellashtirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Matematik tahlil",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "quiz": "Sotsiologik tadqiqotning birinchi bosqichi qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ma’lumotlarni tahlil qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Xulosa chiqarish",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Hisobot yozish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Dastur tuzish",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "quiz": "Kuzatish metodi nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Savollarga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Statistikaga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Eksperimentga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Bevosita kuzatuvga",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "quiz": "Sotsiologik ma’lumotlarni qayta ishlash nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yig‘ish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "So‘rov o‘tkazish",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Dastur tuzish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tahlil va umumlashtirish",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "quiz": "Sotsiologik anketa tuzishda birinchi navbatda nima aniqlanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Javoblar",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Respondentlar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tadqiqot maqsadi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "quiz": "Sotsiologik tadqiqotda empirik bosqich nima bilan bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Nazariy tahlil",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Ma’lumot yig‘ish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Xulosa chiqarish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hisobot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "quiz": "Ochiq savollarning kamchiligi nimada?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Aniqlik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Erkinlik",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Moslashuvchanlik",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tahlil qilish qiyinligi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "quiz": "Tanlanma nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Butun aholi",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Natijalar",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Savollar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tadqiqot uchun ajratilgan qism",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "quiz": "Sotsiologik tadqiqotning yakuniy bosqichi qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "So‘rov",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Dastur",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Kuzatuv",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hisobot va xulosa",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "quiz": "Oila sotsiologiyasi qaysi darajada tadqiqot olib boradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Makro",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Statistik",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Makro",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Mikro va makro",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "quiz": "Statistik tahlil nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Savol tuzishga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Kuzatishga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Rejalashtirishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Natijalarni aniqlashga",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "quiz": "Mahallada ijtimoiy hamkorlik deganda nima tushuniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Raqobat",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Nazorat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Jazolash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hamjihatlik va o‘zaro yordam",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "quiz": "Sotsiologik tadqiqot natijalari qayerda qo‘llaniladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ilm va amaliyotda",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Statistikada",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Hisobotda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Faqat ilmda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "quiz": "Tadqiqot gipotezasi qachon tekshiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Empirik bosqichda",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Dastur tuzishda",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Rejada",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hisobotda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "quiz": "Sotsiologik tadqiqotda monitoring nimani bildiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Doimiy kuzatuv",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Bir martalik o‘rganish",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Eksperiment",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hisobot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "quiz": "Oila va mahalla munosabatlari nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hamkorlikka",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Raqobatga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Majburiyatga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "quiz": "Tanlanma hajmi nimaga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hududga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tadqiqot maqsadiga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Vaqtga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Ob-havoga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "quiz": "Oila muammolarini aniqlashda statistik ma’lumotlar nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Nazoratga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Umumiy holatni ko‘rsatishga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Jazolashga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Buyruqqa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "quiz": "Mahallada ijtimoiy integratsiya nimani bildiradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ajralish",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Jamoaga qo‘shilish",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Cheklanish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Raqobat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "quiz": "Sotsiologik tahlilda diagrammalar nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Savol tuzishga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Natijani ko‘rsatishga",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "So‘rovga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Rejaga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "quiz": "Mahallada ijtimoiy fikrni o‘rganish qaysi metod bilan amalga oshiriladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Eksperiment",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "So‘rov",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Modellashtirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazorat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "quiz": "Tadqiqot natijalari asosida nima ishlab chiqiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Buyruq",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Tavsiyalar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "option": "Jazolar",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hisob",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "quiz": "Mahallada ijtimoiy muammolarni aniqlash nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Jazoga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Hisobotga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Yechim ishlab chiqishga",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Nazoratga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "quiz": "Sotsiologik tadqiqotda faktor tahlili nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Savol tuzishga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Kuzatishga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Asosiy omillarni aniqlashga",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Rejaga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "quiz": "Sotsiologik tadqiqotda empirik ma’lumotlar nimadan olinadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Kitoblardan",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Qarorlardan",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "So‘rov va kuzatuvlardan",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Buyruqlardan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "quiz": "Mahalla institutining asosiy subyekti kim?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Sud",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Aholi va jamoatchilik",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Bank",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "quiz": "Sotsiologik tadqiqotda indikatorlar nimaga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Tasodifga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Vaqtga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Tadqiqot maqsadiga",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Hududga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "quiz": "Mahallada ijtimoiy yordamning samaradorligi nimaga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qonunga",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Jazoga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Hamkorlikka",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Nazoratga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "quiz": "Oila institutining asosiy qadriyati qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Boylik",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "Nazorat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Mehr-oqibat",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "Raqobat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "quiz": "Mahalla va oila masalalarida kompleks yondashuv nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ko‘p omilli tahlil",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Bir yoqlama",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Nazorat",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jazolash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "quiz": "Oila barqarorligiga salbiy ta’sir etuvchi omil qaysi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy beqarorlik",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Hurmat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "An’ana",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hamkorlik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "quiz": "Oila muammolarini o‘rganishda statistik tahlil nimani beradi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Umumiy tendensiyani",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Jazoni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Buyruqni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "quiz": "Mahallada ijtimoiy muammolarni hal etish kimlarning ishtirokini talab qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Davlat va jamoatchilik",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Davlat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Mahalla",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Oila",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "quiz": "Sotsiologik tadqiqotda empatiya nimani ta’minlaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Respondentni tushunishni",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Nazorat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Jazoni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tezlikni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "quiz": "Sotsiologik tadqiqot natijalari nimani takomillashtirishga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy siyosatni",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Nazoratni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Jazoni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Cheklovni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "quiz": "Oila va mahalla hamkorligining huquqiy asosi nima?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Qonunlar",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "An’ana",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Buyruq",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Shaxsiy fikr",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "quiz": "Sotsiologik tadqiqotda vizualizatsiya nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Natijani ko‘rsatishga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "So‘rovga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Kuzatishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Rejaga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "quiz": "Oila muammolarini hal qilishda ijtimoiy ish nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Yordam va qo‘llab-quvvatlash",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Nazorat",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Jazolash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Cheklash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "quiz": "Sotsiologik tadqiqotda xulosa nimaga asoslanadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Empirik ma’lumotlarga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Shaxsiy fikrga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Taxminga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Buyruqqa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "quiz": "Oila institutining ijtimoiy nazorat funksiyasi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Xulq-atvorni tartibga solish",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Jazolash",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Daromadni ta’minlash",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Tarbiya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "quiz": "Mahallada ijtimoiy muammolarni hal etish nimaga qaratilgan?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Barqarorlikni ta’minlashga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Nazoratni kuchaytirishga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Jazolashga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Cheklashga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "quiz": "Oila va mahalla o‘rtasidagi hamkorlik nimani mustahkamlaydi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy barqarorlikni",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Raqobatni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Ajralishni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Nazoratni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "quiz": "Oila muammolarini hal qilishda psixologik yondashuv nimaga xizmat qiladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Murosaga erishishga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Nazoratni kuchaytirishga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Jazoni belgilashga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Cheklov qo‘yishga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "quiz": "Sotsiologik tadqiqotda indikator tushunchasi nimani anglatadi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "O‘lchov belgilarini",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Natijalarni",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Savollarni",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jadvallarni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "quiz": "Mahallada ijtimoiy yordam samaradorligi nimaga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Hamkorlik darajasiga",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Faqat qonunlarga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Nazoratga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Jazoga",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "quiz": "Oila institutining asosiy qadriyati nimada namoyon bo‘ladi?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Mehr-oqibatda",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Boylikda",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Nazoratda",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Raqobatda",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "quiz": "Mahalla institutining rivojlanishi qaysi omilga bog‘liq?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Ijtimoiy faollikka",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "Tasodifga",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Texnik vositalarga",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "Hudud maydoniga",
           "isCorrect": false
         }
       ]
